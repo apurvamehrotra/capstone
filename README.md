@@ -1,2 +1,2 @@
 # capstone
-repository forr capstone final project
+repository for capstone final project
